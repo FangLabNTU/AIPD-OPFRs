@@ -20,9 +20,4 @@ Contributions to this project are welcome. Please feel free to submit issues, fe
 
 **Contact**
 
-For questions or concerns regarding this project, please contact [insert contact information].
-
-**Acknowledgements**
-
-We would like to acknowledge [insert acknowledgements].
-
+For questions or concerns regarding this project, please contact mlfang@ntu.edu.sg.
