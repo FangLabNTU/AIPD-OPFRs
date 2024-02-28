@@ -1,0 +1,49 @@
+nBits:  1024
+best_epochs:  91
+class num:  2
+
+class 0:  22
+class 1:  60
+class 2:  46
+
+train: 
+loss:  0.068
+accuracy:  1.000
+auc_roc_score:  1.000
+mcc:  1.000
+tp:  24
+tn:  12
+fn:  0
+fp:  0
+se:  1.000
+sp:  1.000
+F1:  1.000
+BA:  1.000
+
+test: 
+loss:  0.398
+accuracy:  0.800
+auc_roc_score:  0.917
+mcc:  0.583
+tp:  5
+tn:  3
+fn:  1
+fp:  1
+se:  0.833
+sp:  0.750
+F1:  0.833
+BA:  0.792
+
+other: 
+loss:  0.802
+accuracy:  0.537
+auc_roc_score:  0.535
+mcc:  0.070
+tp:  18
+tn:  26
+fn:  16
+fp:  22
+se:  0.529
+sp:  0.542
+F1:  0.486
+BA:  0.536
